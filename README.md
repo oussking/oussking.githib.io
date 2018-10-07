@@ -1,2 +1,2 @@
-# oussking.githib.io
+# oussking.github.io
 my blog
